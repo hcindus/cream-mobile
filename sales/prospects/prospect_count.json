@@ -1,20 +1,20 @@
 {
-  "total_prospects": 122000,
+  "total_prospects": 127000,
   "generated_today": 1000,
-  "last_updated": "2026-08-30T06:32:00+00:00",
-  "previous_count": 121000,
-  "file_location": "prospects/realtor_prospects_2026-08-30.json",
+  "last_updated": "2026-09-05T06:31:00+00:00",
+  "previous_count": 126000,
+  "file_location": "prospects/realtor_prospects_2026-09-05.json",
   "daily_target": 1000,
-  "streak_days": 120,
+  "streak_days": 125,
   "by_priority": {
-    "A": 48800,
-    "B": 42700,
-    "C": 30500
+    "A": 50800,
+    "B": 44450,
+    "C": 31750
   },
   "by_experience": {
-    "senior_6plus": 61001,
-    "mid_3to5": 30565,
-    "new_0to2": 30434
+    "senior_6plus": 63501,
+    "mid_3to5": 31813,
+    "new_0to2": 31686
   },
   "top_states": [
     "CA",
